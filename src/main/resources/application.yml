@@ -16,4 +16,4 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: https://gateway-server-production-527a.up.railway.app/eureka
+      defaultZone: https://eureka-server-production-f18b.up.railway.app/eureka
