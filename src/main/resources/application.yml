@@ -16,4 +16,4 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: https://eureka-server.railway.internal/eureka/
+      defaultZone: http://eureka-server.railway.internal/eureka/
